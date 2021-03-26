@@ -1,14 +1,13 @@
  ![Summer](https://capsule-render.vercel.app/api?type=wave&color=FE9AA8&&animation=fadeIn&fontColor=FFFFFF&height=300&section=header&text=Summer%20Kim&fontSize=90)
-<h2 align="center"> 📌<strong>Portfolio</strong>📌 </h2>
+<h2 align="center"> 📌<em>Portfolio</em>📌 </h2>
 <p align="center"><em>3 Major Repo for Portfolio</em><br/>
  <br/>
- <a href="https://github.com/summer-kim/ReeR">❤️ ReeR</a><br/>
- <a href="https://github.com/summer-kim/Momentum">💛 Momentum</a><br/>
- <a href="https://github.com/summer-kim/React_Study">💜React_Study</a><br/>
+ <a href="https://github.com/summer-kim/ReeR">❤️<em>ReeR</em></a><br/>
+ <a href="https://github.com/summer-kim/Momentum">💛<em>Momentum</em></a><br/>
+ <a href="https://github.com/summer-kim/React_Study">💜<em>React_Study</em></a><br/>
 </p>
 <br/>
-<h2 align="center"> 💎 <strong>Tech Stack</strong> 💎 </h2>
- <br/>
+<h2 align="center"> 💎 <em>Tech Stack</em> 💎 </h2>
  <br/>
 <p align="center"> 🍀 <em>My Major Language</em> 🍀<br/>
  <br/>
@@ -54,4 +53,3 @@
  </p>
  <br/>
  <br/> 
-  ![Summer](https://capsule-render.vercel.app/api?type=wave&color=989EDF&animation=fadeIn&height=200&section=footer)
