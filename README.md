@@ -1,9 +1,10 @@
  # 💌Summer's Repo
  ***
- <div style='text-align:center'>💎 **Tech Stack** 💎 </div>
+ ![Summer](https://capsule-render.vercel.app/api?type=wave&color=FFBAB3&&animation=fadeIn&fontColor=FFFFFF&height=300&section=header&text=Summer%20Kim&fontSize=90)
+<p align="center">
  💎 **Tech Stack** 💎
  
- 💗 My Major Language
+ 🍀 My Major Language
  ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Node.js](http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-React-61dbfb?style=for-the-badge&logo=React&logoColor=white)
@@ -32,6 +33,6 @@
 💗 DEPLOY  
  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white)
  
- 
+ </p>
  
 
