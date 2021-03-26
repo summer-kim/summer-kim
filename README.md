@@ -8,7 +8,8 @@
   <img src="http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp<br/>
   <img src="https://img.shields.io/badge/-React-61dbfb?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp<br/>
 </p>
-
+ <br/>
+ <br/>
 <p align="center"> 💗 <strong>BASIC</strong> 💗<br/>
  <br/>
   <img src="http://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
@@ -45,9 +46,14 @@
  </p>
   <br/>
   <br/>
-   ***
-   <h2 align="center"> 📌<strong>Portfolio</strong>📌 </h2>
-
-   
- 
+***
+<h2 align="center"> 📌<strong>Portfolio</strong>📌 </h2>
+<p align="center">3 Major Repo for Portfolio
+ <br/>
+ <a href="https://github.com/summer-kim/ReeR">❤️ ReeR</a><br/>
+ <a href="https://github.com/summer-kim/Momentum">💛 Momentum</a><br/>
+ <a href="https://github.com/summer-kim/React_Study">💜React_Study</a><br/>
+</p>
+ <br/>
+  <br/> 
   ![Summer](https://capsule-render.vercel.app/api?type=wave&color=989EDF&&animation=fadeIn&height=175&section=footer)
