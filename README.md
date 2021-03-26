@@ -1,6 +1,5 @@
  # 💌Summer's Repo
- ***
- <p align="center"> ![Summer](https://capsule-render.vercel.app/api?type=wave&color=FE9AA8&&animation=fadeIn&fontColor=FFFFFF&height=300&section=header&text=Summer%20Kim&fontSize=90) </p>
+ ![Summer](https://capsule-render.vercel.app/api?type=wave&color=FE9AA8&&animation=fadeIn&fontColor=FFFFFF&height=300&section=header&text=Summer%20Kim&fontSize=90)
 <p align="center"> 💎 **Tech Stack** 💎 </p>
  
  🍀 My Major Language
