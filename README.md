@@ -1,13 +1,13 @@
- # 💌Summer's Repo
  ![Summer](https://capsule-render.vercel.app/api?type=wave&color=FE9AA8&&animation=fadeIn&fontColor=FFFFFF&height=300&section=header&text=Summer%20Kim&fontSize=90)
-<p align="center"> 💎 <strong>Tech Stack</strong> 💎 </p>
- 
- 🍀 My Major Language
+<h2 align="center"> 💎 <strong>Tech Stack</strong> 💎 </h2>
+
+<p align="center"> 🍀 <strong>My Major Language</strong> 🍀</p>
  ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Node.js](http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-React-61dbfb?style=for-the-badge&logo=React&logoColor=white)
 
-💗 BASIC
+<p align="center"> 💗<strong>BASIC</strong> 💗/p>
+
 ![HTML5](http://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](http://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Sass](http://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
@@ -30,6 +30,7 @@
 
 💗 DEPLOY  
  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white)
  
  </p>
   ![Summer](https://capsule-render.vercel.app/api?type=wave&color=989EDF&&animation=fadeIn&height=300&section=footer)
