@@ -1,6 +1,6 @@
  # 💌Summer's Repo
  ![Summer](https://capsule-render.vercel.app/api?type=wave&color=FE9AA8&&animation=fadeIn&fontColor=FFFFFF&height=300&section=header&text=Summer%20Kim&fontSize=90)
-<p align="center"> 💎 **Tech Stack** 💎 </p>
+<p align="center"> 💎 <strong>Tech Stack</strong> 💎 </p>
  
  🍀 My Major Language
  ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
