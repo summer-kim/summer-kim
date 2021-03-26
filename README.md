@@ -1,11 +1,10 @@
  ![Summer](https://capsule-render.vercel.app/api?type=wave&color=FE9AA8&&animation=fadeIn&fontColor=FFFFFF&height=300&section=header&text=Summer%20Kim&fontSize=90)
 <h2 align="center"> 💎 <strong>Tech Stack</strong> 💎 </h2>
 
-<p align="center"> 🍀 <strong>My Major Language</strong> 🍀   
-   
- ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
-![Node.js](http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-React-61dbfb?style=for-the-badge&logo=React&logoColor=white) 
+<p align="center"> 🍀 <strong>My Major Language</strong> 🍀  
+  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp'
+  <img src="http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp'
+  <img src="https://img.shields.io/badge/-React-61dbfb?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp'
 </p>
 
 <p align="center"> 💗 <strong>BASIC</strong> 💗  
