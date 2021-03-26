@@ -1,6 +1,6 @@
  # 💌Summer's Repo
  ***
- 
+ <div style='text-align:center'>💎 **Tech Stack** 💎 </div>
  💎 **Tech Stack** 💎
  
  💗 My Major Language
