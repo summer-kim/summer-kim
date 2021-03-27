@@ -1,4 +1,4 @@
- ![Summer](https://capsule-render.vercel.app/api?type=wave&color=FE9AA8&&animation=fadeIn&fontColor=FFFFFF&height=300&section=header&text=Dasom%20Kim&fontSize=90)
+ ![Summer](https://capsule-render.vercel.app/api?type=waving&color=FE9AA8&&animation=fadeIn&fontColor=FFFFFF&height=200&section=header&text=Dasom%20Kim&fontSize=90)
 <h2 align="center"> 📌<em>Portfolio</em>📌 </h2>
 <p align="center"><em>3 Major Repo for Portfolio</em><br/>
  <br/>
