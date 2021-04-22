@@ -1,5 +1,5 @@
  ![Summer](https://capsule-render.vercel.app/api?type=waving&color=FE9AA8&&animation=fadeIn&fontColor=FFFFFF&height=200&section=header&text=Dasom%20Kim&fontSize=90)
-<h3 align="center"><em>Hello, I'm Self-Taught Web Developer</em></h3>
+<h3 align="center"><em>Hello, I'm a Self-Taught Web Developer</em></h3>
 <h3 align="center"><em>🇰🇷, 🇯🇵, 🇦🇺</em></h3>
 <h2 align="center"> 📌<em>Portfolio</em>📌 </h2>
 <p align="center"><em>3 Major Repo for Portfolio</em><br/>
