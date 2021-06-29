@@ -2,11 +2,9 @@
 <h3 align="center"><em>Hello, I'm a Self-Taught Web Developer</em></h3>
 <h3 align="center"><em>🇰🇷, 🇯🇵, 🇦🇺</em></h3>
 <h2 align="center"> 📌<em>Portfolio</em>📌 </h2>
-<p align="center"><em>3 Major Repo for Portfolio</em><br/>
+<p align="center"><em>Major Repo for Portfolio</em><br/>
  <br/>
  <a href="https://github.com/summer-kim/ReeR">❤️<em>ReeR</em></a><br/>
- <a href="https://github.com/summer-kim/Momentum">💛<em>Momentum</em></a><br/>
- <a href="https://github.com/summer-kim/React_Study">💜<em>React_Study</em></a><br/>
 </p>
 <br/>
 <h2 align="center"> 💎 <em>Tech Stack</em> 💎 </h2>
